@@ -1,0 +1,16 @@
+{
+  "short_name": "Anuncios IA",
+  "name": "Generador de Fotos de Anuncios con IA",
+  "description": "Una herramienta impulsada por IA para generar fotos de anuncios profesionales.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#8b5cf6"
+}
